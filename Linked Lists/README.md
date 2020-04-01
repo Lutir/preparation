@@ -13,7 +13,8 @@
 
 ## What is A Linked List?
 
-A linked list is a data structure used for storing collections of data. A linked list has the followingproperties.•Successive elements are connected by pointers
+A linked list is a data structure used for storing collections of data. A linked list has the following properties.
+- Successive elements are connected by pointers
 - The last element points to NULL
 - Can grow or shrink in size during execution of a program
 - Can be made just as long as required (until systems memory exhausts).
@@ -25,7 +26,19 @@ Let's get started!
 
 ## Standard Problems in Linked Lists?
 
+The idea is to understand the in-and-outs of linked lists so that we can solve (or get the idea) for every new problem we encounter. Here are some standard problems to get started!
 
+- Nth node from the end
+- Check for cycles in a linked list
+- Check if list is null-terminated or not. 
+- Insert a node in a sorted linked lists
+- Reverse a linked List
+- Find the merging point of two lists
+- Find the middle of the linked list
+- Implement Stack using Linked Lists
+- Josephus Circle
+- Merge two sorted lists
+- Merge K sorted lists
 
 ---
 
