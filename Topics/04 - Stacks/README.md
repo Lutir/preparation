@@ -1,4 +1,4 @@
-# Introduction to Linked Lists
+# Introduction to Stacks
 
 ## Table of Contents
 
@@ -14,7 +14,9 @@
 ## What is A Stack?
 
 A stack is a simple data structure used for storing data (similar to Linked Lists). In a stack, the order in which the data arrives is important. A pile of plates in a cafeteria is a good example of a stack. The plates are added to the stack as they are cleaned and they are placed on the top. When a plate, is required it is taken from the top of the stack. The first plate placed on the stack is the last one to be used.
+
 (source Karumanchi)
+
 Let's get started!
 
 ---
@@ -23,15 +25,15 @@ Let's get started!
 
 The idea is to understand the in-and-outs of stacks so that we can solve (or get the idea) for every new problem we encounter. Here are some standard problems to get started!
 
-- Valid Parenthesis 
-- Min Stack
-- Implement Stack using Queues 
-- Implement Queue using Stack
-- Reverse a stack
-- Infix/Postfix Evaluation
-- Span Stock Problem
-- Largest rectangle under histogram
-- Nearest greater element
+- <a href="https://leetcode.com/problems/valid-parentheses/"> Valid Parenthesis</a>  <img src="https://img.shields.io/badge/-Leetcode-red"> <img src="https://img.shields.io/badge/-Easy-green">
+- <a href="https://leetcode.com/problems/min-stack/">Min Stack</a> <img src="https://img.shields.io/badge/-Leetcode-red"> <img src="https://img.shields.io/badge/-Karumanchi-blue"> <img src="https://img.shields.io/badge/-Easy-green">
+- <a href="https://leetcode.com/problems/implement-stack-using-queues/">Implement Stack using Queues </a> <img src="https://img.shields.io/badge/-Leetcode-red"> <img src="https://img.shields.io/badge/-Karumanchi-blue"> <img src="https://img.shields.io/badge/-Easy-green">
+- <a href="https://leetcode.com/problems/implement-queue-using-stacks/">Implement Queue using Stack </a> <img src="https://img.shields.io/badge/-Leetcode-red"> <img src="https://img.shields.io/badge/-Karumanchi-blue"> <img src="https://img.shields.io/badge/-Easy-green">
+- Reverse a stack <img src="https://img.shields.io/badge/-Karumanchi-blue"> <img src="https://img.shields.io/badge/-Easy-green">
+- Infix/Postfix Evaluation <img src="https://img.shields.io/badge/-Karumanchi-blue"> <img src="https://img.shields.io/badge/-Medium-orange">
+- <a href="https://leetcode.com/problems/online-stock-span/">Span Stock Problem </a> <img src="https://img.shields.io/badge/-Leetcode-red"> <img src="https://img.shields.io/badge/-Medium-orange">
+- <a href="https://leetcode.com/problems/largest-rectangle-in-histogram/">Largest rectangle under histogram</a> <img src="https://img.shields.io/badge/-Leetcode-red"> <img src="https://img.shields.io/badge/-Hard-inactive">
+- <a href="https://leetcode.com/problems/next-greater-element-ii/">Nearest greater element</a> <img src="https://img.shields.io/badge/-Leetcode-red"> <img src="https://img.shields.io/badge/-Medium-orange">
 
 ---
 
