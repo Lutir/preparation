@@ -1,11 +1,13 @@
-# Introduction to Stacks
+# Introduction to Stacks & Queues
 
 ## Table of Contents
 
 > What are Linked Lists? Dynamically allocated Arrays.
 
-- [Introduction](#what-is-a-stack)
+- [Introduction to Stacks](#what-is-a-stack)
 - [Standard Questions in Stacks](#standard-problems-in-stacks)
+- [Introduction to Queues](#what-is-a-queue)
+- [Standard Questions in Queues](#standard-problems-in-queues)
 - [Resources](#resources)
 
 
@@ -32,8 +34,29 @@ The idea is to understand the in-and-outs of stacks so that we can solve (or get
 - Reverse a stack <img src="https://img.shields.io/badge/-Karumanchi-blue"> <img src="https://img.shields.io/badge/-Easy-green">
 - Infix/Postfix Evaluation <img src="https://img.shields.io/badge/-Karumanchi-blue"> <img src="https://img.shields.io/badge/-Medium-orange">
 - <a href="https://leetcode.com/problems/online-stock-span/">Span Stock Problem </a> <img src="https://img.shields.io/badge/-Leetcode-red"> <img src="https://img.shields.io/badge/-Medium-orange">
-- <a href="https://leetcode.com/problems/largest-rectangle-in-histogram/">Largest rectangle under histogram</a> <img src="https://img.shields.io/badge/-Leetcode-red"> <img src="https://img.shields.io/badge/-Hard-inactive">
+- <a href="https://www.hackerrank.com/challenges/largest-rectangle/problem">Largest rectangle under histogram</a> <img src="https://img.shields.io/badge/-Hackerrank-blueviolet"> <img src="https://img.shields.io/badge/-Hard-inactive">
 - <a href="https://leetcode.com/problems/next-greater-element-ii/">Nearest greater element</a> <img src="https://img.shields.io/badge/-Leetcode-red"> <img src="https://img.shields.io/badge/-Medium-orange">
+
+---
+
+## What is A Queue?
+
+A queue is a data structure used for storing data (similar to Linked Lists and Stacks). In queue, the order in which data arrives is important. In general, a queue is a line of people or things waiting to be served in sequential order starting at the beginning of the line or sequence.
+
+(source Karumanchi)
+
+Let's get started!
+
+---
+
+## Standard Problems in Queues?
+
+The idea is to understand the in-and-outs of Queues so that we can solve (or get the idea) for every new problem we encounter. Here are some standard problems to get started!
+
+- <a href="https://www.hackerrank.com/challenges/queue-using-two-stacks"> Queue using two stacks</a>  <img src="https://img.shields.io/badge/-Hackerrank-blueviolet"> <img src="https://img.shields.io/badge/-Medium-orange">
+-  Stack using two queues <img src="https://img.shields.io/badge/-Karumanchi-blue"> <img src="https://img.shields.io/badge/-Easy-green">
+- Maximum sum in sliding window <img src="https://img.shields.io/badge/-Karumanchi-blue"> <img src="https://img.shields.io/badge/-Medium-orange">
+- <a href="https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/">Max Sum of Rectangle No Larger Than K</a> <img src="https://img.shields.io/badge/-Leetcode-red"> <img src="https://img.shields.io/badge/-Hard-inactive">
 
 ---
 

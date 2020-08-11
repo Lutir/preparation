@@ -33,11 +33,11 @@ The idea is to understand the in-and-outs of linked lists so that we can solve (
 - <a href="https://leetcode.com/problems/linked-list-cycle-ii">Check if list is null-terminated or not.</a> <img src="https://img.shields.io/badge/-Karumanchi-blue"> <img src="https://img.shields.io/badge/-Medium-orange">
 - Insert a node in a sorted linked lists <img src="https://img.shields.io/badge/-Karumanchi-blue"> <img src="https://img.shields.io/badge/-Easy-green">
 - <a href="https://leetcode.com/problems/reverse-linked-list">Reverse a linked List</a> <img src="https://img.shields.io/badge/-Leetcode-red"> <img src="https://img.shields.io/badge/-Karumanchi-blue"> <img src="https://img.shields.io/badge/-Easy-green">
-- <a href="https://leetcode.com/problems/intersection-of-two-linked-lists/">Find the merging point of two lists </a> <img src="https://img.shields.io/badge/-Karumanchi-blue"> <img src="https://img.shields.io/badge/-Easy-green">
-- <a href="https://leetcode.com/problems/middle-of-the-linked-list">Find the middle of the linked list</a> <img src="https://img.shields.io/badge/-Leetcode-red"> <img src="https://img.shields.io/badge/-Leetcode-red"> <img src="https://img.shields.io/badge/-Karumanchi-blue"> <img src="https://img.shields.io/badge/-Easy-green">
+- <a href="https://leetcode.com/problems/intersection-of-two-linked-lists/">Find the merging point of two lists </a> <img src="https://img.shields.io/badge/-Leetcode-red"> <img src="https://img.shields.io/badge/-Easy-green">
+- <a href="https://leetcode.com/problems/middle-of-the-linked-list">Find the middle of the linked list</a> <img src="https://img.shields.io/badge/-Leetcode-red"> <img src="https://img.shields.io/badge/-Karumanchi-blue"> <img src="https://img.shields.io/badge/-Easy-green">
 - Implement Stack using Linked Lists <img src="https://img.shields.io/badge/-Karumanchi-blue"> <img src="https://img.shields.io/badge/-Medium-orange">
 - Josephus Circle <img src="https://img.shields.io/badge/-Karumanchi-blue"> <img src="https://img.shields.io/badge/-Easy-green">
-- <a href="https://leetcode.com/problems/merge-two-sorted-lists">Merge two sorted lists <img src="https://img.shields.io/badge/-Leetcode-red"> <img src="https://img.shields.io/badge/-Karumanchi-blue"> <img src="https://img.shields.io/badge/-medium-orange">
+- <a href="https://leetcode.com/problems/merge-two-sorted-lists">Merge two sorted lists <img src="https://img.shields.io/badge/-Leetcode-red"> <img src="https://img.shields.io/badge/-medium-orange">
 - <a href="https://leetcode.com/problems/merge-k-sorted-lists">Merge K sorted lists <img src="https://img.shields.io/badge/-Leetcode-red"> <img src="https://img.shields.io/badge/-Hard-inactive">
 
 ---
