@@ -39,12 +39,13 @@ If you are an active coder? Feel free to pick a random folder and test your skil
 
 To cover all the important concepts of Data Structures and Algorithms in an ordered and timely manner, I am following the following timeline - 
 
-- **Week 1:** Understanding complexity (Time & Space)
-- **Week 2:** Arrays
-- **Week 3:** Sorting Algorithms
-- **Week 4:** Linked Lists
-- **Week 5:** Stacks and Queues
-- **Week 6:** Trees
+- **Week 1:** Understanding complexity (Time & Space) & The Basics
+- **Week 2:** Sorting Algorithms
+- **Week 3:** Linked Lists
+- **Week 4:** Stacks and Queues
+- **Week 5:** Trees
+- **Week 6:** Graphs
+- **Week 7:** Misc
 
 I will be pushing code and updating the repo regularly and will keep on updating the list.
 
