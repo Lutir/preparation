@@ -1,4 +1,4 @@
-# Introduction to Stacks & Queues
+# Introduction to Sorting Algorithms
 
 ## Table of Contents
 

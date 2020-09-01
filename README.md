@@ -10,6 +10,7 @@
 - [Understanding Bits and Bytes](#understanding-bits-and-bytes)
 - [Goals](#goals)
 - [Resources](#resources)
+- [Contribute](#contribute)
 
 
 ---
@@ -90,6 +91,8 @@ Everyone has their style in which they analyse and solve a problem. Here's my ap
 
 ### Here are somethings which you can try to get started
 
+> Given that you are still reading means that you are serious about it and really want to get started. Perfect! Here are some things which i tried out and they turned out to be really helpful!
+
 - **Solve 3 questions per day**
   - Simple right?
   
@@ -127,6 +130,11 @@ Here is a list of materials which I referred and covered the important concepts 
 
 ---
 
+## Contribute
+
+Liked the project? Want to contribute? Here's how you can get started - <a href="https://gist.github.com/MarcDiethelm/7303312">Contribute</a>
+
+---
 
 ## Stalk me
 
@@ -135,5 +143,3 @@ Reach out to me at one of the following places!
 - Website at <a href="http://lutir.github.io" target="_blank">`Github`</a>
 - LinkedIn at <a href="https://www.linkedin.com/in/ritul-jain" target="_blank">`Ritul Jain`</a>
 - Don't forget to **star** this repo!
-
-### This is the first time I have written a readme.md, hope it helps!
